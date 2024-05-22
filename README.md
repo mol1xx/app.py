@@ -10,3 +10,4 @@ yc compute ssh --id fv4sbn8t1ug8gfhgfl0s --folder-id b1g31lthci6r3c4rn0ge
 git clone https://github.com/mol1xx/app.pyp.git
 source env/bin/activate
 y0_AgAAAAAaKswiAATuwQAAAAEFf36RAABa8QvvaNtNGYWG6v0aBl1EkKHGPw
+gh auth login
