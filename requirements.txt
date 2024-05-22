@@ -1,0 +1,20 @@
+# ChatBot
+
+[Install Python]
+[Install pip]
+```
+C:\Users\roman\AppData\Local\Programs\Python
+```
+In your terminal run the requirements.txt file using this pip
+
+```
+pip install flask
+pip install g4f
+pip install transformers
+pip install torch
+```
+
+```
+python app.py
+
+https://d5da1s9j4hf1c8vsfv16.apigw.yandexcloud.net
